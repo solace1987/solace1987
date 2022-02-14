@@ -1,6 +1,6 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/ZgTR3UQ9XAWDvqy9jv/giphy.gif" width="400px"/>
-</div>
+</div
 # HI, GOOD TO SEE YOU!
 <!--
 **solace1987/solace1987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
